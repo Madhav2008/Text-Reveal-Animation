@@ -34,6 +34,7 @@ h1 span {
     }
 
     100% {
-        opacity: 1; transform: rotateY(90deg);
+        opacity: 1;
+        transform: rotateY(90deg);
     }
 }
