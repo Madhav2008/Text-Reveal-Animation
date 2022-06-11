@@ -62,4 +62,16 @@ h1 span:nth-child(5) {
 
 h1 span:nth-child(6) {
     animation-delay: 3.75s;
+}@keyframes animate {
+    0% {
+        opacity: 0;
+        transform: rotateY(90deg);
+        filter: blur(10px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: rotateY(0deg);
+        filter: blur(0);
+    }
 }
