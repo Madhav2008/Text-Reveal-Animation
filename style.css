@@ -3,4 +3,6 @@ body {
     padding: 0;
 }
 
-section {height: 100vh;}
+section {
+    height: 100vh;
+}
