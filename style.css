@@ -32,5 +32,8 @@ h1 span {
         opacity: 0;
     }
 
-    100% {}
+    100% {
+        opacity: 0;
+
+    }
 }
