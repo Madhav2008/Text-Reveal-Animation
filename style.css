@@ -16,5 +16,6 @@ h1 {
     transform: translateY(-50%);
     width: 100%;
     text-align: center;
-    color: #ddd;font-size: 5em;
+    color: #ddd;
+    font-size: 5em;
 }
