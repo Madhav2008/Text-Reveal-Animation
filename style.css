@@ -27,4 +27,6 @@ h1 span {
     animation: animate 1s linear infinite;
 }
 
-@keyframes animate {0% {}}
+@keyframes animate {
+    0% {}
+}
