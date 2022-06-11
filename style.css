@@ -23,5 +23,5 @@ h1 {
 }
 
 h1 span {
-    display: inline-block;
+    display: inline-block;animation: animate 1s linear infinite;
 }
