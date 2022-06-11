@@ -15,5 +15,5 @@ h1 {
     top: 50%;
     transform: translateY(-50%);
     width: 100%;
-    text-align: center;
+    text-align: center;color: #fff;
 }
