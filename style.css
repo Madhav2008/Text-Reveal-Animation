@@ -8,7 +8,7 @@ section {
     background: #000;
 }
 
-video {}
+video {object-fit: cover;}
 
 h1 {
     margin: 0;
