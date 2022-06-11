@@ -26,7 +26,8 @@ h1 {
     letter-spacing: 0.2em;
 }
 
-h1 span {opacity: 0;
+h1 span {
+    opacity: 0;
     display: inline-block;
     animation: animate 1s linear forwards;
 }
