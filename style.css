@@ -30,7 +30,7 @@ h1 span {
 @keyframes animate {
     0% {
         opacity: 0;
-        transform: rotateY(90deg);
+        transform: rotateY(90deg);filter: blur();
     }
 
     100% {
