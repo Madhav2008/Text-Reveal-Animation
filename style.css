@@ -24,7 +24,7 @@ h1 {
 
 h1 span {
     display: inline-block;
-    animation: animate 1s linear infinite;
+    animation: animate 1s linear forwards;
 }
 
 @keyframes animate {
