@@ -54,7 +54,7 @@ h1 span:nth-child(2) {
 }
 
 h1 span:nth-child(3) {
-    animation-delay: 1s;
+    animation-delay:3s;
 }
 
 h1 span:nth-child(4) {
