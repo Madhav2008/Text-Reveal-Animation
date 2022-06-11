@@ -36,6 +36,7 @@ h1 span {
 
     100% {
         opacity: 1;
-        transform: rotateY(0deg);filter: blur(0);
+        transform: rotateY(0deg);
+        filter: blur(0);
     }
 }
