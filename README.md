@@ -1,1 +1,1 @@
-# Text Reveal
+# Text Reveal Animation
