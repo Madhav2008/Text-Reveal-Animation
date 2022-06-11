@@ -9,7 +9,8 @@ section {
 }
 
 video {
-    object-fit: cover;height: 100vh;
+    object-fit: cover;
+    height: 100vh;
 }
 
 h1 {
